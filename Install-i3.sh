@@ -31,4 +31,5 @@ gparted \
 gnome-disk-utility \
 dialect \
 papirus-icon-theme \
-arc-theme
+arc-theme \
+xdg-user-dirs \
