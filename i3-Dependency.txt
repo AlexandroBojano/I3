@@ -1,0 +1,5 @@
+dex       libanyevent-i3-perl      libconfuse2      libtypes-serialiser-perl  xss-lock
+  dunst     libanyevent-perl         libev-perl       libxcb-cursor0
+  i3-wm     libasync-interrupt-perl  libev4t64        libxcb-screensaver0
+  i3lock    libcommon-sense-perl     libguard-perl    libxcb-xrm0
+  i3status  libconfuse-common        libjson-xs-perl  suckless-tools

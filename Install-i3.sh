@@ -1,0 +1,34 @@
+#!/usr/local/env bash
+sudo apt install \
+xserver-xorg-core \
+xserver-xorg-video-intel \
+i3 \
+i3blocks \
+pulseaudio \
+pulseaudio-utils \
+pavucontrol \
+thunar-volman \
+thunar-media-tags-plugin \
+xfce4-screenshooter \
+arandr \
+nitogen \
+firefox-esr \
+thunderbird \
+mpv \
+ristretto \
+suckless-tools \
+keepassxc \
+rofi \
+mousepad \
+enince \
+policykit-1-gnome \
+lxterminal \
+lxappearance \
+git \
+wget \
+dunst \
+gparted \
+gnome-disk-utility \
+dialect \
+papirus-icon-theme \
+arc-theme

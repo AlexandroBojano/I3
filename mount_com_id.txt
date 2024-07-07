@@ -1,0 +1,4 @@
+sudo mount UUID="9ccadede-0653-4e06-bc67-1aa710f92079" /mnt/Debian/
+
+sudo mount  UUID="CC36-98BD" /mnt/Debian/@rootfs/boot/efi/
+sudo mount  UUID="3c420033-bb5e-4952-babb-1e00875305f9" /mnt/Debian/@rootfs/home/
